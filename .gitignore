@@ -21,3 +21,6 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# visual studio code workspace specific
+triva.code-workspace

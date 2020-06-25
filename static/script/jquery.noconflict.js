@@ -1,0 +1,1 @@
+fjq = jQuery.noConflict();
